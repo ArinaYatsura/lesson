@@ -7,3 +7,5 @@ cd c:\folder name
 Листинг текущей директории
 dir
 
+Удаление файла 
+del <filename>
