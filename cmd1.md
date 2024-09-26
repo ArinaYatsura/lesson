@@ -8,4 +8,4 @@ cd c:\folder name
 dir
 
 Удаление файла 
-del <filename>
+del <filename> 
