@@ -1,0 +1,1 @@
+git checkout <имя ветки1>
