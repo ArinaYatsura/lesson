@@ -90,3 +90,4 @@ git checkout
 
 текст [сслыки](hhtp.example.com) "всплывающая подсказка"
 
+#Добавим картинки в markdown
