@@ -112,3 +112,8 @@ git checkout <branch name>
 
 переключение но новую ветку
 git checkout <имя>
+
+
+совмещение веток 
+
+Git checkout <master>
