@@ -114,6 +114,6 @@ git checkout <branch name>
 git checkout <имя>
 
 
-совмещение веток 
+Сливание веток 
 
 Git checkout <master>
