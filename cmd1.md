@@ -90,19 +90,31 @@ git checkout
 
 текст [сслыки](hhtp.example.com) "всплывающая подсказка"
 
-#Добавим картинки в markdown
+# Добавим картинки в markdown
 
-Это яблоко  
-
-![apple](apple.jpg)
-
+Это яблоко
+![Яблоко](apple.jpg)
 
 Перемещение по веткам 
+
 git checkout <имя ветки>
 
+git checkout <branch name>
 
-Сливание веток
 
-git checkout main 
+git brunch <branch name1>
 
-[def]: яблоко.jpg
+
+git checkout <branch name>
+
+
+## Продолжим добавлять картинки в Markdown
+
+переключение но новую ветку
+git checkout <имя>
+
+
+Сливание веток 
+
+Git checkout <master>
+ new_text
