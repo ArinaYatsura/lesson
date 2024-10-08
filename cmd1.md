@@ -116,3 +116,8 @@ git checkout <имя>
 
 Git checkout <master>
  new_text
+
+
+Создание новой ветки 
+
+git branch <name branch >
