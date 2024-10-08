@@ -92,9 +92,17 @@ git checkout
 
 #Добавим картинки в markdown
 
-Это яблоко
-![Яблоко](яблоко.jpg)
+Это яблоко  
+
+![apple](apple.jpg)
 
 
 Перемещение по веткам 
 git checkout <имя ветки>
+
+
+Сливание веток
+
+git checkout main 
+
+[def]: яблоко.jpg
