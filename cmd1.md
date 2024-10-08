@@ -104,9 +104,7 @@ git checkout <branch name>
 
 git brunch <branch name1>
 
-
 git checkout <branch name>
-
 
 ## Продолжим добавлять картинки в Markdown
 
