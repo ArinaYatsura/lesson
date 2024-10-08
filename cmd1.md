@@ -109,3 +109,6 @@ git checkout <branch name>
 
 
 ## Продолжим добавлять картинки в Markdown
+
+переключение но новую ветку
+git checkout <имя>
