@@ -1,0 +1,14 @@
+C:\Users\arina\OneDrive\Desktop\lesson\Lesson november\bin\Debug\net8.0\Lesson november.exe
+C:\Users\arina\OneDrive\Desktop\lesson\Lesson november\bin\Debug\net8.0\Lesson november.deps.json
+C:\Users\arina\OneDrive\Desktop\lesson\Lesson november\bin\Debug\net8.0\Lesson november.runtimeconfig.json
+C:\Users\arina\OneDrive\Desktop\lesson\Lesson november\bin\Debug\net8.0\Lesson november.dll
+C:\Users\arina\OneDrive\Desktop\lesson\Lesson november\bin\Debug\net8.0\Lesson november.pdb
+C:\Users\arina\OneDrive\Desktop\lesson\Lesson november\obj\Debug\net8.0\Lesson november.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\OneDrive\Desktop\lesson\Lesson november\obj\Debug\net8.0\Lesson november.AssemblyInfoInputs.cache
+C:\Users\arina\OneDrive\Desktop\lesson\Lesson november\obj\Debug\net8.0\Lesson november.AssemblyInfo.cs
+C:\Users\arina\OneDrive\Desktop\lesson\Lesson november\obj\Debug\net8.0\Lesson november.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Desktop\lesson\Lesson november\obj\Debug\net8.0\Lesson november.dll
+C:\Users\arina\OneDrive\Desktop\lesson\Lesson november\obj\Debug\net8.0\refint\Lesson november.dll
+C:\Users\arina\OneDrive\Desktop\lesson\Lesson november\obj\Debug\net8.0\Lesson november.pdb
+C:\Users\arina\OneDrive\Desktop\lesson\Lesson november\obj\Debug\net8.0\Lesson november.genruntimeconfig.cache
+C:\Users\arina\OneDrive\Desktop\lesson\Lesson november\obj\Debug\net8.0\ref\Lesson november.dll
